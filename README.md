@@ -1,2 +1,2 @@
 # PST-CTF
-Some code tidbits from pst's ctf 
+Some code tidbits from pst's ctf. These are codebits that are pulled from the SLEDE 8 challanges that were posted by PST. It is a knock of x86 assembly. The modulo challange was about adding numbers and having them calculate the modulo to some number. The second challange was much harder, as you had to add number together and calcualte the sum, but the registers only allowed numbers up to fifteen. Så in order to convert from binary to decimal system AND having the numbers appear as ascii code using assembly i had to implement a version of a base conversion algorithm. 
